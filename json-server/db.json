@@ -1,0 +1,249 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Blog 1",
+            "description": "Blog 1 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 2,
+            "title": "Blog 2",
+            "description": "Blog 2 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 3,
+            "title": "Blog 3",
+            "description": "Blog 3 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 4,
+            "title": "Blog 4",
+            "description": "Blog 4 Description",
+            "author": "Srikanth Y"
+        },
+
+        {
+            "id": 5,
+            "title": "Blog 5",
+            "description": "Blog 5 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 6,
+            "title": "Blog 6",
+            "description": "Blog 6 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 7,
+            "title": "Blog 7",
+            "description": "Blog 7 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 8,
+            "title": "Blog 8",
+            "description": "Blog 8 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+
+        {
+            "id": 9,
+            "title": "Blog 9",
+            "description": "Blog 9 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 10,
+            "title": "Blog 10",
+            "description": "Blog 10 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 11,
+            "title": "Blog 11",
+            "description": "Blog 11 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 12,
+            "title": "Blog 12",
+            "description": "Blog 12 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 13,
+            "title": "Blog 13",
+            "description": "Blog 13 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 14,
+            "title": "Blog 14",
+            "description": "Blog 14 Description",
+            "author": "Srikanth Y"
+        },
+
+        {
+            "id": 15,
+            "title": "Blog 15",
+            "description": "Blog 15 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 16,
+            "title": "Blog 16",
+            "description": "Blog 16 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 17,
+            "title": "Blog 17",
+            "description": "Blog 17 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 18,
+            "title": "Blog 18",
+            "description": "Blog 18 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 19,
+            "title": "Blog 19",
+            "description": "Blog 19 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 20,
+            "title": "Blog 20",
+            "description": "Blog 20 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 21,
+            "title": "Blog 21",
+            "description": "Blog 21 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 22,
+            "title": "Blog 22",
+            "description": "Blog 22 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 23,
+            "title": "Blog 23",
+            "description": "Blog 23 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 24,
+            "title": "Blog 24",
+            "description": "Blog 24 Description",
+            "author": "Srikanth Y"
+        },
+
+        {
+            "id": 25,
+            "title": "Blog 25",
+            "description": "Blog 25 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 26,
+            "title": "Blog 26",
+            "description": "Blog 26 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 27,
+            "title": "Blog 27",
+            "description": "Blog 27 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 28,
+            "title": "Blog 28",
+            "description": "Blog 28 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 29,
+            "title": "Blog 29",
+            "description": "Blog 29 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 30,
+            "title": "Blog 30",
+            "description": "Blog 30 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 31,
+            "title": "Blog 31",
+            "description": "Blog 31 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 32,
+            "title": "Blog 32",
+            "description": "Blog 32 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 33,
+            "title": "Blog 33",
+            "description": "Blog 33 Description",
+            "author": "Srikanth Y"
+        },
+        {
+            "id": 34,
+            "title": "Blog 34",
+            "description": "Blog 34 Description",
+            "author": "Srikanth Y"
+        },
+
+        {
+            "id": 35,
+            "title": "Blog 35",
+            "description": "Blog 35 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 36,
+            "title": "Blog 36",
+            "description": "Blog 36 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 37,
+            "title": "Blog 37",
+            "description": "Blog 37 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 38,
+            "title": "Blog 38",
+            "description": "Blog 38 Description",
+            "author": "Raju Dusa"
+        },
+        {
+            "id": 39,
+            "title": "Blog 39",
+            "description": "Blog 39 Description",
+            "author": "Sai kumar Lagishetti"
+        },
+        {
+            "id": 40,
+            "title": "Blog 40",
+            "description": "Blog 40 Description",
+            "author": "Sai kumar Lagishetti"
+        }
+    ]
+}
