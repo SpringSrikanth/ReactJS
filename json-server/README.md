@@ -1,6 +1,6 @@
 # Json Server
 
-This server is mock server no need of any knowledge to develop [Create React App](https://github.com/facebook/create-react-app).
+This server is mock server no need of any knowledge to develop [Json Server](https://www.npmjs.com/package/json-server).
 
 ## Installation
 
