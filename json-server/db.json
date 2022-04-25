@@ -245,5 +245,13 @@
             "description": "Blog 40 Description",
             "author": "Sai kumar Lagishetti"
         }
-    ]
+    ],
+
+    "todos": [
+        {
+            "id": 1,
+            "title": "Todo 1",
+            "description": "Todo 1 Description",
+            "createdBy": "Srikanth Y"
+        }]
 }
