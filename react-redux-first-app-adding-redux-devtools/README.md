@@ -46,4 +46,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `To see example in `[Code Sand Box](https://codesandbox.io/s/react-redux-fist-app-6q11yf)
 
-![Redux logger](assets/react-logger.JPG)
+![Redux Devtools Example view](https://github.com/SpringSrikanth/ReactJS/blob/main/react-redux-first-app-adding-redux-devtools/src/assets/react-devtools_chrome.JPG?raw=true)
