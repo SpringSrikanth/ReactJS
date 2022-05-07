@@ -9,8 +9,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `To work with thunk middle ware install below packages `
 
--npm install --save redux-devtools-extension
--npm install redux react-redux
--npm install axios redux-thunk
+- npm install --save redux-devtools-extension
+- npm install redux react-redux
+- npm install axios redux-thunk
+
+### Add thunk as middleware inside store.js file using applyMiddleware funtion.
 
 ![Redux Thunk Example view](https://github.com/SpringSrikanth/ReactJS/blob/main/react-redux-first-app-redux-thunk-middleware/public/assets/example_view.JPG?raw=true)
