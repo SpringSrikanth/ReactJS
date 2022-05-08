@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from 'react';
+import AxiosClient from './Axios/AxiosClient';
 
 function App() {
+  const [users,setUsers] = useState([]);
+  useEffect(()=>{
+    AxiosClient.get("/users")
+    .then(res=>res.data)
+    .then(res=>{
+      setUsers(res);
+    })
+    .catch(error=>{
+      console.log(error.message);
+    })
+  },[])
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container'>
+      <ul className='list-group'>
+        {users.map(user=>(<li className='list-group-item' key={user.id}>{user.name}</li>))}
+      </ul>
     </div>
   );
 }
