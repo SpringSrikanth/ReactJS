@@ -2,7 +2,6 @@ import { Provider } from 'react-redux';
 import './App.css';
 import AddTodo from './Components/AddTodo';
 import Books from './Components/Books';
-import BooksWithInput from './Components/BooksWithInput';
 import Todos from './Components/Todos';
 import store from './Redux/Store';
 
@@ -15,7 +14,6 @@ function App() {
         <Todos/>
         <AddTodo/>
         <Books/>
-        <BooksWithInput/>
       </div>
     </Provider>
   );

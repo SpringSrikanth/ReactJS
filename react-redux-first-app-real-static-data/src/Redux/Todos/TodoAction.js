@@ -1,7 +1,8 @@
 import { ADD_TODO, REMOVE_TODO } from "./TodoActionTypes"
-export const  removeTodo = () =>{
+export const  removeTodo = (payload) =>{
     return {
-      type:REMOVE_TODO
+      type:REMOVE_TODO,
+      payload
     }
 }
 
